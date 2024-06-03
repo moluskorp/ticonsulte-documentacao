@@ -30,7 +30,7 @@
 ```
 
 ### 2. Lançamento de Entrada ou Saída de Visitante
-**Rota:** `/visitor/cam`
+**Rota:** `/visitor`
 
 **Descrição:** Rota para registrar a entrada ou saída de um visitante.
 
